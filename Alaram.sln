@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alaram.Android", "Alaram\Alaram.Android\Alaram.Android.csproj", "{9C241028-49B1-44BB-A146-3B1CD918865F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alaram", "Alaram\Alaram\Alaram.csproj", "{590FD1E9-B992-4381-8C7D-559F2F37FC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C241028-49B1-44BB-A146-3B1CD918865F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C241028-49B1-44BB-A146-3B1CD918865F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C241028-49B1-44BB-A146-3B1CD918865F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C241028-49B1-44BB-A146-3B1CD918865F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{590FD1E9-B992-4381-8C7D-559F2F37FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590FD1E9-B992-4381-8C7D-559F2F37FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590FD1E9-B992-4381-8C7D-559F2F37FC6E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{590FD1E9-B992-4381-8C7D-559F2F37FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590FD1E9-B992-4381-8C7D-559F2F37FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590FD1E9-B992-4381-8C7D-559F2F37FC6E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1796DEDB-9466-4135-B420-B80AD1E781BE}
+	EndGlobalSection
+EndGlobal
